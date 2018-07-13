@@ -1,0 +1,55 @@
+{
+
+  "UPSLoc": [
+
+ {
+
+   "Name" : "SADDLEBROOK",
+
+   "Address" : "280 N MIDLAND AVE",
+
+   "City" : "SADDLE BROOK",
+
+   "State" : "NJ",
+
+   "Zip Code" : 7663
+
+ },
+
+ {
+
+   "Name" : "Mount Olive",
+
+   "Address" : "303 Waterloo Valley Rd ",
+
+   "City" : "Budd Lake",
+
+   "State" : "NJ",
+
+   "Zip Code" : 7828
+
+ },
+
+ {
+
+   "Name" : "Edison",
+
+   "Address" : "1 CLOVER PLACE",
+
+   "City" : "EDISON",
+
+   "State" : "NJ",
+
+   "Zip Code" : 8817
+
+ }
+
+  ],
+
+  "profile": {
+
+    "name": "typicode"
+
+  }
+
+}
